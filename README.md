@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about data analytics
 - 💞️ I’m looking to collaborate on ... (in progress...)
 - 📫 How to reach me ... (not yet)
-- 😄 Pronouns: her/she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love gardening, cooking, traveling, reading about self-awareness, learning new things
 
 <!---
